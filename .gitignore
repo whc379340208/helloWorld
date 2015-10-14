@@ -70,4 +70,5 @@ proguard/
 
 # Log Files
 *.log
+*.idea Files
 >>>>>>> origin/master
