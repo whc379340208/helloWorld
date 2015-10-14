@@ -1,0 +1,97 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.zmsoft.ui.PercentLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_widthPercent="30%w"
+            app:layout_heightPercent="8%h"
+            android:text="@string/lbl_telphone"/>
+
+        <EditText
+            android:id="@+id/telphone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_widthPercent="50%w"
+            app:layout_heightPercent="10%h"
+            android:hint="@string/please_input_telphone"
+            android:textColorHint="@android:color/holo_red_light"/>
+
+    </com.zmsoft.ui.PercentLinearLayout>
+
+    <com.zmsoft.ui.PercentLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_widthPercent="30%w"
+            app:layout_heightPercent="10%h"
+            android:text="@string/lbl_message_code"/>
+
+        <EditText
+            android:id="@+id/code"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_widthPercent="50%w"
+            app:layout_heightPercent="10%h"
+            android:hint="@string/please_input_message_code"
+            android:textColorHint="@android:color/holo_red_light"/>
+
+    </com.zmsoft.ui.PercentLinearLayout>
+
+    <Button
+        android:id="@+id/send_message_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/button_send_message"/>
+
+    <com.zmsoft.ui.PercentLinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_widthPercent="50%"
+            app:layout_heightPercent="10%"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/linear_layout_percent"/>
+
+    </com.zmsoft.ui.PercentLinearLayout>
+
+    <com.zmsoft.ui.PercentRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_marginLeftPercent="20%w"
+            app:layout_widthPercent="30%"
+            app:layout_heightPercent="10%"
+            android:gravity="center"
+            android:text="@string/relative_layout_percent"/>
+
+    </com.zmsoft.ui.PercentRelativeLayout>
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>
