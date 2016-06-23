@@ -36,9 +36,9 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="352" column="32" selection-start-line="352" selection-start-column="32" selection-end-line="352" selection-end-column="32" />
+              <caret line="349" column="32" selection-start-line="349" selection-start-column="32" selection-end-line="349" selection-end-column="32" />
               <folding>
-                <marker date="1466673745813" expanded="true" signature="230777:231006" placeholder="..." />
+                <marker date="1466673783415" expanded="true" signature="230104:230333" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -3044,7 +3044,13 @@
       <option name="project" value="LOCAL" />
       <updated>1466673713751</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="重新配置">
+      <created>1466673781502</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1466673781502</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3097,7 +3103,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="347" column="32" selection-start-line="347" selection-start-column="32" selection-end-line="347" selection-end-column="32" />
           <folding>
-            <marker date="1466673745813" expanded="true" signature="230777:231006" placeholder="..." />
+            <marker date="1466673783415" expanded="true" signature="230104:230333" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -3136,9 +3142,9 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="352" column="32" selection-start-line="352" selection-start-column="32" selection-end-line="352" selection-end-column="32" />
+          <caret line="349" column="32" selection-start-line="349" selection-start-column="32" selection-end-line="349" selection-end-column="32" />
           <folding>
-            <marker date="1466673745813" expanded="true" signature="230777:231006" placeholder="..." />
+            <marker date="1466673783415" expanded="true" signature="230104:230333" placeholder="..." />
           </folding>
         </state>
       </provider>
