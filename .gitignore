@@ -38,6 +38,7 @@ proguard/
 # Apple
 .DS_Store
 
+
 # Vim/Emacs
 *~
 
