@@ -4,8 +4,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="561215e9-b484-4a27-8c53-c4af11ab8bcc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="561215e9-b484-4a27-8c53-c4af11ab8bcc" name="Default" comment="重新配置">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="helloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -3036,7 +3036,13 @@
       <option name="project" value="LOCAL" />
       <updated>1466674075880</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="重新配置">
+      <created>1466674104293</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1466674104293</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3089,8 +3095,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="347" column="32" selection-start-line="347" selection-start-column="32" selection-end-line="347" selection-end-column="32" />
           <folding>
-            <marker date="1466674080157" expanded="true" signature="59:229530" placeholder="..." />
-            <marker date="1466674080157" expanded="true" signature="229431:229519" placeholder="..." />
+            <marker date="1466674271541" expanded="true" signature="59:229898" placeholder="..." />
+            <marker date="1466674271541" expanded="true" signature="229799:229887" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -3131,8 +3137,8 @@
         <state vertical-scroll-proportion="-250.51613">
           <caret line="353" column="32" selection-start-line="353" selection-start-column="32" selection-end-line="353" selection-end-column="32" />
           <folding>
-            <marker date="1466674080157" expanded="true" signature="59:229530" placeholder="..." />
-            <marker date="1466674080157" expanded="true" signature="229431:229519" placeholder="..." />
+            <marker date="1466674271541" expanded="true" signature="59:229898" placeholder="..." />
+            <marker date="1466674271541" expanded="true" signature="229799:229887" placeholder="..." />
           </folding>
         </state>
       </provider>
